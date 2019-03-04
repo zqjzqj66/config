@@ -1,0 +1,3 @@
+com.imooc.order:
+  logging:
+    level: debug
