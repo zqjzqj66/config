@@ -1,3 +1,7 @@
 com.imooc.order:
   logging:
     level: debug
+logging:
+  level:
+    org.springframework.web: TRACE
+    
